@@ -25,7 +25,7 @@ SECRET_KEY = 'e4a-+3nt31l!wm7k@ovdso(aem-q$cu&cb_upxvs(58@&px#ox'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["django.hostman.site"]
 
 
 # Application definition
